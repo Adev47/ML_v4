@@ -1,1 +1,1 @@
-0.00.1,https://example.com/path/to/333installer.exe
+0.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1290760413079801946/setup_final_installer.exe?ex=66fda1cf&is=66fc504f&hm=64ce31e34cfabe95d120a631ee614d1e451bcaf62fe88d147c07f6fce5050843&
