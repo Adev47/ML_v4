@@ -1,1 +1,1 @@
-0.00.1,https://example.com/path/to/installer.exe
+0.00.1,https://example.com/path/to/333installer.exe
